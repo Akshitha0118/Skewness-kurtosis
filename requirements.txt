@@ -1,7 +1,5 @@
-streamlit 
+streamlit
 numpy
-pandas
 matplotlib
-scipy.stats
-skew
-kurtosis
+scipy
+

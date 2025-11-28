@@ -61,4 +61,5 @@ ax3.set_ylabel("ECG Amplitude")
 ax3.grid(True)
 st.pyplot(fig3)
 
-st.success("📌 Displaying the effect of skewness and kurtosis on ECG waveforms without requiring any dataset.")
+st.success("📌 Displaying the effect of skewness and kurtosis on ECG waveforms .")
+
